@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199215645543",
+    "project_id": "magazyn-7892c",
+    "storage_bucket": "magazyn-7892c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199215645543:android:fabf5d0fcaea30d82c65c2",
+        "android_client_info": {
+          "package_name": "com.example.magazyn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199215645543-n7ij9r2vl04nt9hb1j2kjhs91pra75f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEn3QUQXC6nvZyzP1v--BBboC_QbvJ7wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199215645543-n7ij9r2vl04nt9hb1j2kjhs91pra75f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

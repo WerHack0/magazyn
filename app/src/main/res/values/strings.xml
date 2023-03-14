@@ -2,6 +2,6 @@
     <string name="app_name">magazyn</string>
     <string name="app_logo">Magazyn</string>
     <string name="haslo_hint">Wprowadź hasło (testowe to: 12345)</string>
-    <string name="login_hint">Wprowadź login (testowy to: test)</string>
+    <string name="login_hint">Wprowadź login (testowy to: test@email.com)</string>
     <string name="login_button">Zaloguj!</string>
 </resources>
